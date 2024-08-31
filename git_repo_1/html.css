@@ -1,0 +1,14 @@
+body
+{
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 4px 4px 8px black;
+    color: white;
+    background-color: brown;
+}
+
+.c1
+{
+    font-weight: 500;
+    margin-top: 18rem;
+}
